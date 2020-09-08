@@ -1,0 +1,29 @@
+.wrapper,
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+.column {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+.row {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+}
+.box {
+  margin: 20px;
+  height: 50px;
+  background-color: #fbcde8;
+  flex: 1;
+}
+.box-fill {
+  height: 50px;
+  flex: 1;
+}
+.checkFilter {
+  margin: 20px;
+}
