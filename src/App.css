@@ -4,6 +4,10 @@ body {
   height: 100%;
   margin: 0;
 }
+select {
+  height: 30px;
+  margin-left: 10px;
+}
 .column {
   display: flex;
   flex: 1;
